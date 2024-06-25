@@ -1,2 +1,1 @@
-jenkins/jenkins:2.452.2
-jumpserver/web:v3.10.11
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.12.0
