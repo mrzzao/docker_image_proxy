@@ -1,3 +1,7 @@
+修改了一下脚本，改了一下名称，将 `/` 改为了`_`
+例如镜像：selenium/standalone-chrome:latest
+拉取地址：registry.cn-hangzhou.aliyuncs.com/githubimage/selenium_standalone-chrome:latest
+
 # Docker Images Pusher
 
 使用Github Action将DockerHub镜像转存到阿里云私有仓库，供国内服务器使用，免费易用
