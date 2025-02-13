@@ -1,1 +1,1 @@
-normalcoder/openvpn2ss:latest
+budtmo/docker-android:emulator_12.0
